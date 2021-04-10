@@ -1,0 +1,13 @@
+web:
+  container_name: vercel_tuto
+  image: ubuntu:latest
+  command: >
+    bash -c "apt update && apt install -y curl
+    && curl -fsSL https://deb.nodesource.com/setup_15.x | bash -
+    && apt install -y nodejs
+    && npm -g i vercel
+    && bash"
+  volumes:
+    - ../site/public:/root/site
+  stdin_open: true
+  tty: true
