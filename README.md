@@ -6,3 +6,4 @@ Lista de vídeos do [canal](https://www.youtube.com/channel/UCqiQNOIlCb3CMf1Hoc8
 
 1. Adicione um "event listener" a qualquer elemento do DOM com JavaScript - https://www.youtube.com/watch?v=T-7SSOS5yFI
 2. Criando do zero um simples autocomplete com JavaScript - https://www.youtube.com/watch?v=A-7GPCZQ6yg
+3. Como hospedar um site usando a plataforma Vercel - https://www.youtube.com/watch?v=ZXSmm6jXCwA
